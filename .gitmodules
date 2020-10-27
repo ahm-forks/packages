@@ -55,3 +55,6 @@
 [submodule "outsiders/Frogging-Family/neofrog-git"]
 	path = outsiders/Frogging-Family/neofrog-git
 	url = https://github.com/Frogging-Family/neofrog-git
+[submodule "outsiders/figue/brave"]
+	path = outsiders/figue/brave
+	url = https://github.com/figue/brave.git
