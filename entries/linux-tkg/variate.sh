@@ -27,7 +27,7 @@ function variate() {
 
     sed -i'' "
     s/_distro=\"[^\"]*\"/_distro=\"Arch\"/g
-    s/_version=\"[^\"]*\"/_distro=\"${_VER}\"/g
+    s/_version=\"[^\"]*\"/_version=\"${_VER}\"/g
     s/_NUKR=\"[^\"]*\"/_NUKR=\"false\"/g
     s/_OPTIPROFILE=\"[^\"]*\"/_OPTIPROFILE=\"1\"/g
     s/_modprobeddb=\"[^\"]*\"/_modprobeddb=\"false\"/g
